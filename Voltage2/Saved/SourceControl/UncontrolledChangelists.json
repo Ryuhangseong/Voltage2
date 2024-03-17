@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/UE/TPSFPSCharacterSystem 5.3/Content/TPSFPSCharacterSystem/Blueprints/BASIC_TPSFPSCharacter/BP_BASIC_TPSFPSCharacter.uasset",
+				"E:/UE/Voltage2/Content/TPSFPSCharacterSystem/Levels/Playground.umap",
+				"E:/UE/Voltage2/Content/TPSFPSCharacterSystem/Levels/Modules/Playground_Cube.uasset",
+				"E:/UE/Voltage2/Content/TPSFPSCharacterSystem/Dev_Floor.uasset",
+				"E:/UE/Voltage2/Content/TPSFPSCharacterSystem/Dev_Wall.uasset",
+				"E:/UE/Voltage2/Content/TPSFPSCharacterSystem/Dev_Cover.uasset",
+				"E:/UE/Voltage2/Content/TPSFPSCharacterSystem/Levels/Modules/Wall.uasset",
+				"E:/UE/Voltage2/Content/TPSFPSCharacterSystem/Levels/Modules/Cover.uasset",
+				"E:/UE/Voltage2/Content/TPSFPSCharacterSystem/Materials/Dev_Cover.uasset",
+				"E:/UE/Voltage2/Content/TPSFPSCharacterSystem/Materials/Dev_Floor.uasset",
+				"E:/UE/Voltage2/Content/TPSFPSCharacterSystem/Materials/Dev_Wall.uasset",
+				"E:/UE/Voltage2/Content/TPSFPSCharacterSystem/Levels/Material/Cover.uasset",
+				"E:/UE/Voltage2/Content/TPSFPSCharacterSystem/Levels/Material/Playground_Cube.uasset",
+				"E:/UE/Voltage2/Content/TPSFPSCharacterSystem/Levels/Material/Wall.uasset",
+				"E:/UE/Voltage2/Content/TPSFPSCharacterSystem/Levels/Modules/Wall1.uasset",
+				"E:/UE/Voltage2/Content/TPSFPSCharacterSystem/Levels/Modules/AirWall.uasset",
+				"E:/UE/Voltage2/Content/TPSFPSCharacterSystem/Levels/Modules/Stair.uasset",
+				"E:/UE/Voltage2/Content/TPSFPSCharacterSystem/Nodes/Interactions/ElectronPlace.uasset",
+				"E:/UE/Voltage2/Content/TPSFPSCharacterSystem/Nodes/Interactions/ElectronPlaceBP.uasset",
+				"E:/UE/Voltage2/Content/TPSFPSCharacterSystem/Materials/Dev_ElectronPlace.uasset",
+				"E:/UE/Voltage2/Content/TPSFPSCharacterSystem/Materials/MI_DevMockup_Covers.uasset",
+				"E:/UE/Voltage2/Content/TPSFPSCharacterSystem/Nodes/Interactions/Magnet.uasset",
+				"E:/UE/Voltage2/Content/TPSFPSCharacterSystem/Blueprints/COMMON_PickupsSystem/BP_AmmoPickup_AssaultRifleLMG.uasset",
+				"E:/UE/Voltage2/Content/TPSFPSCharacterSystem/Nodes/Interactions/Switch.uasset",
+				"E:/UE/Voltage2/Content/TPSFPSCharacterSystem/Nodes/Interactions/SwitchNew.uasset",
+				"E:/UE/Voltage2/Content/TPSFPSCharacterSystem/Blueprints/COMMON_WeaponSystem/BP_WeaponSystem.uasset",
+				"E:/UE/Voltage2/Content/TPSFPSCharacterSystem/Materials/Dev_Floor1.uasset",
+				"E:/UE/Voltage2/Content/TPSFPSCharacterSystem/Materials/Dev_GrenadeTower.uasset",
+				"E:/UE/Voltage2/Content/TPSFPSCharacterSystem/Nodes/Interactions/GrenadeTower.uasset"
+			]
+		}
+	]
+}
